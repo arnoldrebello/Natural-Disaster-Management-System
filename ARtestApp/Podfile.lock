@@ -1,0 +1,16 @@
+PODS:
+  - PortalMask (1.3.2)
+
+DEPENDENCIES:
+  - PortalMask
+
+SPEC REPOS:
+  trunk:
+    - PortalMask
+
+SPEC CHECKSUMS:
+  PortalMask: e570068bfbe7ff4802097fb4ef9c0977cb1ca469
+
+PODFILE CHECKSUM: 5b642bf163a458f2381153f4ac4be32d2a0c4c09
+
+COCOAPODS: 1.9.1
