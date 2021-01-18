@@ -1,0 +1,17 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '13.0'
+
+target 'Disaster Management' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Disaster Management
+ pod 'SwiftyJSON', '~> 4.0'
+  pod 'Alamofire', '~> 4.6'
+  pod 'SDWebImage', '~> 4.0'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Database'
+  pod 'Firebase/Core'
+  pod 'SwipeCellKit'
+    
+end
